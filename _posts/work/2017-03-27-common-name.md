@@ -6,7 +6,7 @@ tags: css
 keywords: css,命名
 ---
 
-```
+```c++
 current	现在的
 
 first	第一个
