@@ -15,7 +15,7 @@ last	最后一个
 
 main	主要的
 
-tag 标签
+tag		标签
 
 list	列表
 
@@ -25,15 +25,15 @@ item	项目
 
 slider	滑块
 
-box	盒子
+box		盒子
 
-hot	热闹
+hot		热闹
 
 sidebar	侧栏
 
 menu	菜单
 
-btn	按钮
+btn		按钮
 
 icon	图标
 
